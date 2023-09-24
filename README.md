@@ -1,2 +1,2 @@
 # wine-classification
-Wine classification using neural networks.
+Wine classification using neural networks
